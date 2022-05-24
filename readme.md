@@ -1,1 +1,1 @@
-This is a Jenkins pipeline test. 
+This is a sample server. 
